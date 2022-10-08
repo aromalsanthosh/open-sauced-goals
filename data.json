@@ -1,13 +1,13 @@
 [
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 17802,
+    "stargazers_count": 17806,
     "open_issues_count": 138,
     "forks_count": 761
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2432,
+    "stargazers_count": 2434,
     "open_issues_count": 20,
     "forks_count": 99
   },
@@ -26,7 +26,7 @@
   {
     "full_name": "googlecolab/colabtools",
     "stargazers_count": 1584,
-    "open_issues_count": 964,
+    "open_issues_count": 967,
     "forks_count": 577
   },
   {
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "npm/cli",
-    "stargazers_count": 6426,
-    "open_issues_count": 475,
-    "forks_count": 2090
+    "stargazers_count": 6433,
+    "open_issues_count": 476,
+    "forks_count": 2093
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 798,
     "open_issues_count": 19,
-    "forks_count": 397
+    "forks_count": 399
   }
 ]
