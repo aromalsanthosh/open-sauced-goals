@@ -1,13 +1,13 @@
 [
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 17910,
+    "stargazers_count": 17921,
     "open_issues_count": 139,
     "forks_count": 766
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2462,
+    "stargazers_count": 2470,
     "open_issues_count": 22,
     "forks_count": 102
   },
@@ -26,25 +26,25 @@
   {
     "full_name": "googlecolab/colabtools",
     "stargazers_count": 1590,
-    "open_issues_count": 979,
+    "open_issues_count": 985,
     "forks_count": 580
   },
   {
     "full_name": "csandman/chakra-react-select",
-    "stargazers_count": 455,
+    "stargazers_count": 456,
     "open_issues_count": 2,
     "forks_count": 18
   },
   {
     "full_name": "npm/cli",
-    "stargazers_count": 6462,
-    "open_issues_count": 476,
-    "forks_count": 2111
+    "stargazers_count": 6463,
+    "open_issues_count": 471,
+    "forks_count": 2113
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 801,
     "open_issues_count": 18,
-    "forks_count": 410
+    "forks_count": 412
   }
 ]
