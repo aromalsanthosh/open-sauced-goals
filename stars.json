@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "faker-ruby/faker",
+    "stargazers_count": 10517,
+    "open_issues_count": 14,
+    "forks_count": 3034
+  },
+  {
     "full_name": "WeMakeDevs/roadmaps",
-    "stargazers_count": 775,
-    "open_issues_count": 12,
-    "forks_count": 297
+    "stargazers_count": 795,
+    "open_issues_count": 14,
+    "forks_count": 310
   },
   {
     "full_name": "apache/openwhisk",
-    "stargazers_count": 5859,
+    "stargazers_count": 5863,
     "open_issues_count": 379,
     "forks_count": 1126
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 3578,
-    "open_issues_count": 41,
-    "forks_count": 94
+    "stargazers_count": 3619,
+    "open_issues_count": 47,
+    "forks_count": 99
   },
   {
     "full_name": "github/codespaces-rails",
@@ -25,14 +31,14 @@
   },
   {
     "full_name": "unskript/Awesome-CloudOps-Automation",
-    "stargazers_count": 100,
-    "open_issues_count": 51,
+    "stargazers_count": 101,
+    "open_issues_count": 52,
     "forks_count": 15
   },
   {
     "full_name": "shakacode/react_on_rails",
-    "stargazers_count": 4924,
-    "open_issues_count": 29,
+    "stargazers_count": 4923,
+    "open_issues_count": 30,
     "forks_count": 616
   },
   {
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "parallax/jsPDF",
-    "stargazers_count": 25569,
+    "stargazers_count": 25588,
     "open_issues_count": 176,
-    "forks_count": 4411
+    "forks_count": 4409
   },
   {
     "full_name": "ghostjson/SpeedDial",
@@ -57,19 +63,19 @@
     "full_name": "pdeitel/InternetAndWorldWideWebHowToProgram5e",
     "stargazers_count": 38,
     "open_issues_count": 0,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "pedroslopez/whatsapp-web.js",
-    "stargazers_count": 8252,
-    "open_issues_count": 238,
-    "forks_count": 1875
+    "stargazers_count": 8270,
+    "open_issues_count": 244,
+    "forks_count": 1881
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 4975,
-    "open_issues_count": 45,
-    "forks_count": 95
+    "stargazers_count": 5023,
+    "open_issues_count": 44,
+    "forks_count": 99
   },
   {
     "full_name": "capistrano/rvm",
@@ -80,38 +86,38 @@
   {
     "full_name": "rbenv/ruby-build",
     "stargazers_count": 3693,
-    "open_issues_count": 12,
-    "forks_count": 774
+    "open_issues_count": 11,
+    "forks_count": 775
   },
   {
     "full_name": "rvm/rvm",
-    "stargazers_count": 4859,
+    "stargazers_count": 4862,
     "open_issues_count": 480,
-    "forks_count": 1036
+    "forks_count": 1034
   },
   {
     "full_name": "google/webauthndemo",
-    "stargazers_count": 394,
+    "stargazers_count": 392,
     "open_issues_count": 12,
     "forks_count": 109
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 23244,
-    "open_issues_count": 29,
-    "forks_count": 2454
+    "stargazers_count": 23281,
+    "open_issues_count": 31,
+    "forks_count": 2459
   },
   {
     "full_name": "gopinav/React-Formik-Tutorials",
-    "stargazers_count": 177,
-    "open_issues_count": 36,
+    "stargazers_count": 178,
+    "open_issues_count": 38,
     "forks_count": 183
   },
   {
     "full_name": "conventional-commits/conventionalcommits.org",
-    "stargazers_count": 4739,
-    "open_issues_count": 65,
-    "forks_count": 416
+    "stargazers_count": 4749,
+    "open_issues_count": 66,
+    "forks_count": 417
   },
   {
     "full_name": "lemokami/startupsofkerala",
@@ -121,7 +127,7 @@
   },
   {
     "full_name": "activerecord-hackery/ransack",
-    "stargazers_count": 5309,
+    "stargazers_count": 5312,
     "open_issues_count": 92,
     "forks_count": 753
   },
@@ -133,20 +139,20 @@
   },
   {
     "full_name": "npm/cli",
-    "stargazers_count": 6611,
-    "open_issues_count": 500,
-    "forks_count": 2216
+    "stargazers_count": 6614,
+    "open_issues_count": 504,
+    "forks_count": 2226
   },
   {
     "full_name": "csandman/chakra-react-select",
-    "stargazers_count": 485,
-    "open_issues_count": 5,
+    "stargazers_count": 490,
+    "open_issues_count": 4,
     "forks_count": 17
   },
   {
     "full_name": "googlecolab/colabtools",
-    "stargazers_count": 1632,
-    "open_issues_count": 984,
+    "stargazers_count": 1634,
+    "open_issues_count": 993,
     "forks_count": 583
   },
   {
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2521,
+    "stargazers_count": 2526,
     "open_issues_count": 23,
     "forks_count": 103
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 18448,
+    "stargazers_count": 18472,
     "open_issues_count": 132,
-    "forks_count": 791
+    "forks_count": 798
   },
   {
     "full_name": "sachinchoolur/lightGallery",
-    "stargazers_count": 5554,
-    "open_issues_count": 49,
-    "forks_count": 1229
-  },
-  {
-    "full_name": "cheran-senthil/PyRival",
-    "stargazers_count": 879,
-    "open_issues_count": 7,
-    "forks_count": 276
+    "stargazers_count": 5563,
+    "open_issues_count": 51,
+    "forks_count": 1231
   }
 ]
